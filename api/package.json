@@ -1,0 +1,23 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "form for text saving and oAuth authorization",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alex-mos/form.git"
+  },
+  "author": "alexander.mospan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-mos/form/issues"
+  },
+  "homepage": "https://github.com/alex-mos/form#readme",
+  "dependencies": {
+    "formidable": "^1.1.1",
+    "mongodb": "^2.2.24"
+  }
+}
